@@ -1,3 +1,4 @@
 # EVA
 
-For EVA Session 1 assignment , I have moved the submission file to Project_1 folder here in this repository.
+- Session 1 assignment :  Project_1 folder
+- Session 2 assignment : Session 2 folder > Session2.ipynb
