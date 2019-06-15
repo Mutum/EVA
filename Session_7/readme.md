@@ -1,13 +1,15 @@
 
-Assignment_7 notebook : Enas architecture
+1.   Assignment_7 notebook : Enas architecture
 
-Below receptive field calculation of GoogleNet.
+2. Below receptive field calculation of GoogleNet.
 
 Initially we have:
 
 |input size | Receptive field |J0|
 |-----------|-----------------|--|
 |224 |1|1|
+
+Below is the table for receptive field calculation in the network. For each Inception block, It has been taken the maximum receptive fiel ie. 1x1 convolution followed by 5x5 convolution. In the table a inception block is represent by two layers , eg. 1st inception block is represented by INCEP_1_CON for 1x1 convolution then followed by 5x5 convolution.
 
 By by calculation, we have below:
 
@@ -39,5 +41,5 @@ By by calculation, we have below:
 | INCEP_8_CON |  5 | 1 |715 |32|
 
 
-
+Hence till upto last inception block, the network has reached 715 receptive field
 
