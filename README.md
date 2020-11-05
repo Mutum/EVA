@@ -1,4 +1,7 @@
-# EVA
+# EVA - Computer Vision
+
+https://theschoolof.ai/
+
 Please find assignment and its folder:
 
 - Session 1 assignment :  Project_1 folder
